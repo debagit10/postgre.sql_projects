@@ -1,1 +1,1 @@
-# Database with postgresSQL
+# Database with postgreSQL
